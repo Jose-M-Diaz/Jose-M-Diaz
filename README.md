@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, my name is Jose Diaz 👋
+##### 😄 Pronouns: He/Him
+##### 🌱 I’m currently learning multiple languages such as JS, JAVA, and MYSQL
+##### 📫 How to reach me: *diaz.m.jose68@gmail.com*
+##### 🔭 I’m currently working on ...
 <!--
 **Jose-M-Diaz/Jose-M-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
