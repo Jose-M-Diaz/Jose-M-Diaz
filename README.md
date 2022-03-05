@@ -1,5 +1,4 @@
 ### Hi there, my name is Jose Diaz 👋
-##### 😄 Pronouns: He/Him
 ##### 🌱 I’m currently learning Spring and Java
 ##### 📫 How to reach me: *diaz.m.jose68@gmail.com*
 ##### 🔭 I’m currently working on my Capstone project at Codeup
