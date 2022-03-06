@@ -1,7 +1,11 @@
 ### Hi there, my name is Jose Diaz 👋
-##### 🌱 I’m currently learning Spring and Java
-##### 📫 How to reach me: *diaz.m.jose68@gmail.com*
-##### 🔭 I’m currently working on my Capstone project at Codeup
+##### 🌱 I’m currently learning: **Spring and Java**
+##### 📫 How to reach me: **diaz.m.jose68@gmail.com**
+##### 🔭 I’m currently working on: **Capstone project at Codeup**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left"><a href="https://www.linkedin.com/in/jose-diaz68/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jose-M-Diaz" height="30" width="40" /></a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jose-M-Diaz&theme=algolia" alt="Jose-M-Diaz" /></a> </p>
 <br>
