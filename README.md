@@ -1,8 +1,8 @@
 <p align="center">Hi there, my name is Jose Diaz 👋</p>
 <h4 align="center">Ambitious Software Developer with years of customer service experience and the ability to work autonomously or within a collaborative environment. The desire to stay aligned with the future of business motivated the transition to a career in technology. Excited to take my experiences and skills acquired prior to being a developer, and join an environment that promotes growth and development.</h4>
 
-##### 🌱 I’m currently learning: **React**
-##### 🔭 I’m currently working on: **Practicing my sklls in front-end development**
+##### 🌱 I’m currently learning: **Angular**
+##### 🔭 I’m currently working on: **Practicing my sklls in back-end development**
 ##### 📫 How to reach me: **diaz.m.jose68@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
